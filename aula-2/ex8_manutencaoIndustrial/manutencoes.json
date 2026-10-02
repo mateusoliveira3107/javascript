@@ -1,0 +1,5 @@
+[
+    { "id": 1, "maquina": "Torno mecanico", "setor": "Usinagem", "horasUso": 450, "limiteManutencao": 500, "manutencaoRealizada": false},
+    {"id": 2, "maquina": "Prensa hidraulica", "setor": "Estamparia", "horasUso": 1200, "limiteManutencao": 1000, "manutencaoRealizada": true},
+    {"id": 3, "maquina": "Braco robotico", "setor": "Montagem", "horasUso": 850, "limiteManutencao": 1000, "manutencaoRealizada": false}
+]

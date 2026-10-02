@@ -1,0 +1,6 @@
+[
+    {"matricula": 1, "nome": "Pedro Correia", "setor": "Producao", "cargo": "Operador"},
+    {"matricula": 2, "nome": "Ricardo Mendes", "setor": "Manutencao", "cargo": "Tecnico"},
+    {"matricula": 3, "nome": "Ronaldo Silva", "setor": "Qualidade", "cargo": "Inspetor"},
+    {"matricula": 4, "nome": "Joao Pedro", "setor": "Logistico", "cargo": "Supervisor"}
+]

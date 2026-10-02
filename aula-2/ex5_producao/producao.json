@@ -1,0 +1,6 @@
+[
+    {"maquina": "torno mecanico", "meta": 200, "produzido": 500},
+    {"maquina": "fresadora", "meta": 800, "produzido": 700},
+    {"maquina": "prensa", "meta": 300, "produzido": 200},
+    {"maquina": "impressora", "meta": 400, "produzido": 600}
+]
