@@ -5,7 +5,7 @@
     "setor": "Usinagem",
     "horasUso": 450,
     "limiteManutencao": 500,
-    "manutencaoRealizada": true
+    "manutencaoRealizada": false
   },
   {
     "id": 2,
